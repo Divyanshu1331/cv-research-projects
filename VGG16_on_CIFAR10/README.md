@@ -58,7 +58,6 @@ Flatten → Dense(512, relu) → Dropout(0.5) → Dense(512, relu) → Dropout(0
 - **Epoch 10**: Accuracy = 73.1% | Validation Accuracy = 72.5%  
 - **Epoch 19**: Accuracy = 87.6% | Validation Accuracy = 81.1%  
 
-*(Plots of accuracy/loss curves and confusion matrix can be added here for better visualization.)*
 ---
 
 ## 💡 Intuition Developed
