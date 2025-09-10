@@ -70,4 +70,4 @@ The model achieved high accuracy on MNIST, showing the effectiveness of even ear
 ## 📝 My Blog on This Project  
 
 I’ve written a detailed blog explaining my implementation and learnings:  
-👉 [https://medium.com/@divyanshu1331/week-9-cnn-architecture-and-backpropagation-made-simple-e7e11a667c7d]  
+👉 [Week 9: CNN Architecture and Backpropagation Made Simple](https://medium.com/@divyanshu1331/week-9-cnn-architecture-and-backpropagation-made-simple-e7e11a667c7d)  
