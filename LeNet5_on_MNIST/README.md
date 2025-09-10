@@ -58,7 +58,26 @@ The model achieved high accuracy on MNIST, showing the effectiveness of even ear
 
 **Peak Validation Accuracy:** ~98.9%  
 
-**Observation:** Training accuracy kept improving, but validation accuracy plateaued → indicating a slight overfitting after ~5 epochs.  
+**Observation:** Training accuracy kept improving, but validation accuracy plateaued → indicating a slight overfitting after ~5 epochs. 
+
+---
+
+### 📈 Training Curves  
+
+Training and validation accuracy/loss curves were plotted in the notebook, showing that accuracy plateaued after ~5 epochs, while loss continued to decrease slightly.  
+
+---
+
+### 🖼️ Sample Prediction  
+
+Testing on the first image from the MNIST test set:  
+
+- **True Label:** 7  
+- **Model Prediction:** 7 ✅  
+
+This confirmed that the model was able to correctly classify unseen test images. 
+
+---
 
 ## 🎯 Key Takeaways  
 
