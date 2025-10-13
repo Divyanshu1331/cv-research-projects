@@ -27,7 +27,9 @@ Data augmentation was applied to the training set to improve generalization:
 
 This produced varied image samples to make the model more robust to real-world variations.  
 
-🔧 **CNN Architecture (Summary)**  
+---
+
+## 🔧 **CNN Architecture (Summary)**  
 | Layer | Output Shape | Parameters |
 |-------|--------------|-----------|
 | Conv2D(32, 3x3, ReLU) | (None, 148, 148, 32) | 896 |
