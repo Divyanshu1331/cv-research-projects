@@ -46,7 +46,9 @@ This produced varied image samples to make the model more robust to real-world v
 | Dropout(0.5) | (None, 128) | 0 |
 | Dense(1, Sigmoid) | (None, 1) | 129 |
 
-🧮 **Training Details**  
+---
+
+## 🧮 **Training Details**  
 - Optimizer: Adam  
 - Loss function: Binary crossentropy  
 - Epochs: 20 (with EarlyStopping, patience=3)  
@@ -90,5 +92,8 @@ The model correctly predicted unseen images, demonstrating strong generalization
 - Early stopping prevents overfitting, restoring the best weights for generalization.
 
 ---
+## 📝 Related Work / Transfer Learning Version
+I also implemented a Cats vs Dogs classifier using **transfer learning** with pre-trained model: MobileNetV2.  
+Check it out here: [Cats vs Dogs – Transfer Learning Notebook](https://github.com/Divyanshu1331/ML-Projects-Undergrad/blob/main/06-Dog-vs-Cat-Classifier/Dog%20%26%20Cat%20Classification%20(using%20Transfer%20Learning).ipynb)
 
-
+---
