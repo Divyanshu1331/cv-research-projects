@@ -9,13 +9,30 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 ---
 
 ## 🖼 **About the Dataset**  
-I used the **Dogs vs Cats** dataset from Kaggle: [Dataset Link](https://www.kaggle.com/datasets/salader/dogs-vs-cats)  
 
-- Training images: 20,000  
-- Testing images: 5,000  
-- Image size: 150×150 pixels  
-- Channels: RGB (3 channels)  
-- Classes: Cats (0), Dogs (1)
+### 📌 Data Source and Purpose  
+- I used the **Dogs vs Cats** dataset from Kaggle: [Dataset Link](https://www.kaggle.com/datasets/salader/dogs-vs-cats) 
+- The data was accessed and downloaded using the **Kaggle API** directly within Google Colab.  
+- The dataset was initially downloaded as a compressed file and then unzipped to reveal the necessary structure.
+
+### 📂 Dataset Structure
+The dataset is simple and organized as follows:
+
+1. **train/** – Training images  
+2. **test/** – Testing images  
+
+Each folder contains two subfolders:
+
+- **Cats/** – Contains all cat images  
+- **Dogs/** – Contains all dog images  
+
+> Note: Images have varying sizes, so they were resized during data loading.
+
+### 🛠 Data Handling
+- **Keras ImageDataGenerator** was used to handle large dataset batches efficiently, loading only small batches into RAM at a time.  
+- Images were processed to automatically infer class labels.  
+- **Normalization** was applied by dividing pixel values by 255, scaling them to the range [0,1] for better model performance.
+
 
 ---
 
