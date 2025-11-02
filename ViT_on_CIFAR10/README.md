@@ -91,6 +91,6 @@ So this repo answers:
 Full write-up, plots, breakdown, comparison with VGG16, reasoning, and conclusions:
 
 👉 **Medium article:**   
-*[Vision Transformer vs VGG16 on CIFAR-10: Training Both Models From Scratch](https://divyanshu1331.medium.com/why-vit-struggles-on-small-datasets-a-4-stage-experiment-on-cifar-10-7634ab2ae94c)*
+*[Why ViT Struggles on Small Datasets: A 4-Stage Experiment on CIFAR-10](https://divyanshu1331.medium.com/why-vit-struggles-on-small-datasets-a-4-stage-experiment-on-cifar-10-7634ab2ae94c)*
 
 ---
