@@ -84,8 +84,6 @@ So this repo answers:
 | 03 | + Tuned architecture | More stable training |
 | 04 | Final optimized ViT | Best performance |
 
-*(Exact accuracy graphs inside the notebooks)*
-
 ---
 
 ## 📝 Reference Blog
@@ -93,12 +91,6 @@ So this repo answers:
 Full write-up, plots, breakdown, comparison with VGG16, reasoning, and conclusions:
 
 👉 **Medium article:** _"Vision Transformer vs VGG16 on CIFAR-10: Training Both Models From Scratch"_  
-*(Link here once published)*
+*[(Vision Transformer vs VGG16 on CIFAR-10: Training Both Models From Scratch)](https://divyanshu1331.medium.com/why-vit-struggles-on-small-datasets-a-4-stage-experiment-on-cifar-10-7634ab2ae94c)*
 
 ---
-
-## 🚀 How to Run
-
-```bash
-pip install -r requirements.txt
-
