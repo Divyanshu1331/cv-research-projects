@@ -28,7 +28,7 @@ Instead of only using pre-trained models, this repo focuses on **understanding a
 All these research experiments and important deep learning concepts are documented in a dedicated blog series, where I explain architecture intuition, implementation details, experiment results, and research takeaways.
 
 📌 Blog Series: *"Deep Learning for Computer Vision – From CNNs to Transformers"*  
-*(Links below)*
+
 - 🐶 [**Cats vs Dogs – CNN & VGG16 from Scratch**](https://divyanshu1331.medium.com/week-10-building-cnns-vgg16-from-scratch-cat-vs-dog-classifier-b88a23845428)
 
 - 📊 [**Why Vision Transformer Struggles on Small Datasets – 4-Stage CIFAR-10 Experiment**](https://divyanshu1331.medium.com/why-vit-struggles-on-small-datasets-a-4-stage-experiment-on-cifar-10-7634ab2ae94c)  
@@ -37,7 +37,7 @@ All these research experiments and important deep learning concepts are document
 
 ## 🔗 Connect
 
-- [[**LinkedIn**](http://www.linkedin.com/in/divyanshu1331)
+- [**LinkedIn**](http://www.linkedin.com/in/divyanshu1331)
 - [**Blog Series / Medium**](https://divyanshu1331.medium.com/)
   
 ---
