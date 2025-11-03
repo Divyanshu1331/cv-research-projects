@@ -9,10 +9,10 @@ Each project in this repository explores a different architecture, training stra
 
 | Project | Dataset | Architecture | Highlight |
 |---------|---------|--------------|-----------|
-| `Cats_vs_Dogs_Classification/` | Kaggle Cats vs Dogs | Custom CNN | Baseline binary classifier built & trained from scratch |
-| `LeNet5_on_MNIST/` | MNIST Digits | LeNet-5 | Recreated the classic 1998 paper architecture with backprop from scratch |
-| `VGG16_on_CIFAR10/` | CIFAR-10 | VGG-16 | Full CNN with 5 blocks, dropout regularization, trained from scratch (no transfer learning) |
-| `ViT_on_CIFAR10/` | CIFAR-10 | Vision Transformer (ViT) | 4 progressive models exploring patch embedding, augmentation, regularization, and depth scaling |
+| `Cats_vs_Dogs_Classification` | Kaggle Cats vs Dogs | Custom CNN | Baseline binary classifier built & trained from scratch |
+| `LeNet5_on_MNIST` | MNIST Digits | LeNet-5 | Recreated the classic 1998 paper architecture with backprop from scratch |
+| `VGG16_on_CIFAR10` | CIFAR-10 | VGG-16 | Full CNN with 5 blocks, dropout regularization, trained from scratch (no transfer learning) |
+| `ViT_on_CIFAR10` | CIFAR-10 | Vision Transformer (ViT) | 4 progressive models exploring patch embedding, augmentation, regularization, and depth scaling |
 
 
 ---
